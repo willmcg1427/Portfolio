@@ -51,4 +51,4 @@ sal_df.rename(columns = {'Year':'Year_Gathered'}, inplace = True)
 sal_df = sal_df.iloc[:,[5,6,0,1,2,3,7,8,9,4]]
 
 # Save to csv
-sal_df.to_csv(export_path + "Clean_MLB_Saleries_2021_to_2024.csv", index = False)
+sal_df.to_csv(export_path + "Clean_MLB_Salaries_2021_to_2024.csv", index = False)
