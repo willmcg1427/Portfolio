@@ -8,3 +8,4 @@ Files include:
 4. Final_Presentation.pptx: PowerPoint presenting the previous milestones
 5. Random_Forest.R: Machine Learning model using random forest for classification
 6. read_in.py: Email checker software tool
+7. Phish_Training_Dataset.csv: First data source collected from UC Irvine Machine Learning Repository
