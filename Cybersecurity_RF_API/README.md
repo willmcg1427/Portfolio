@@ -6,6 +6,5 @@ Files include:
 2. milestone_2.docx: Selecting data to use for cybersecurity
 3. milestone_3.docx: Creating value from the data
 4. Final_Presentation.pptx: PowerPoint presenting the previous milestones
-5. Code
-  1. Random_Forest.R: Machine Learning model using random forest for classification
-  2. read_in.py: Email checker software tool
+5. Random_Forest.R: Machine Learning model using random forest for classification
+6. read_in.py: Email checker software tool
