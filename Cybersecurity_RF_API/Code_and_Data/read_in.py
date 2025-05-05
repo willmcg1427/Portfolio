@@ -27,7 +27,7 @@ for i in h:
     payload = {"url": i}
     headers = {
         "accept": "application/json",
-        "x-apikey": "e12014e04e5b1b6bc2aa4d65fb9639804657a2f9a4c04887678f520569ad7e55",
+        "x-apikey": "Your-Api-key-here",
         "content-type": "application/x-www-form-urlencoded"
     }
     
